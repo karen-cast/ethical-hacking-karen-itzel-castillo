@@ -16,9 +16,10 @@ Ethical Hacking - Hacker Women Council
 
 | Actividad | Estado | Descripción breve | Carpeta |
 | :--- | :---: | :--- | :---: |
-| **Actividad 01** | 🔄 En proceso / ✅ Completado | ** | [Ver carpeta](./Actividad-01/) |
-| **Actividad 02** | ⏳ Pendiente | *Próximamente* | [Ver carpeta](./Actividad-02/) |
+| **Actividad 01** | ✅ Completado | Análisis de pentesting de Aurora Market | [Ver carpeta](./actividad-01/) |
+| **Actividad 02** | 🔄 En proceso | *Próximamente* | [Ver carpeta](./Actividad-02/) |
 | **Actividad 03** | ⏳ Pendiente | *Próximamente* | [Ver carpeta](./Actividad-03/) |
+| **Actividad 04** | ⏳ Pendiente | *Próximamente* | [Ver carpeta](./Actividad-03/) |
 
 ---
 
